@@ -1,0 +1,27 @@
+body{
+    background:#f8f8f8;
+}
+
+.btn-margin{
+    margin-left: 20px;
+}
+.margin-left{
+    margin-left: 20px;
+}
+.container-height{
+    height: calc(100vh - 100px);
+}
+.img-result-find{
+    width:inherit;
+    text-align: left;
+}
+
+.margin-find-top{
+    margin-top: 20px;
+}
+.bottom-find-border{
+    border-bottom: 1px solid rgba(0,0,0, .1);
+}
+.copyright{
+    background-color: darkslategray;
+}

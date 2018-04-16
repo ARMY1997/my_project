@@ -1,0 +1,26 @@
+body{
+    background-image: url(img/background.jpg)
+}
+
+.btn-margin{
+    margin-left: 10px;
+}
+/*.form{
+    padding: 50px;
+    position: fixed; 
+    top: 50%; 
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+}*/
+.margin-left{
+    margin-left: 20px;
+}
+.container-height{
+    height: calc(100vh - 100px);
+}
+
+.img-result-find{
+    height: 200px;
+    text-align: left;
+}
